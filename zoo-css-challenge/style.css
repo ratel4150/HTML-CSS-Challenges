@@ -145,6 +145,9 @@ footer {
 .giraffe h2 ,h3{
   color: #F4743B;
 }
+.giraffe > p:nth-child(2){
+  font-size: larger;
+}
 
 .card {
   display: inline-block;
