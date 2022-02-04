@@ -219,6 +219,12 @@ footer {
 .membership {
   text-align: center;
   background-color: #fffffc;
+ 
+  
+}
+.membership p{
+  width: 700px;
+  padding-left: 215px;
 }
 
 .membership h2 {
