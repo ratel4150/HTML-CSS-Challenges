@@ -243,3 +243,21 @@ footer {
 
   
 }
+.my-favorite-animal{
+  background-color: #bbb;
+}
+.my-favorite-animal h2{
+  color: #6320ee;
+  text-align: center;
+}
+.my-favorite-animal img{
+  margin-left: 100px;
+  position: relative;
+  border-radius: 100px ;
+}
+
+
+.my-favorite-animal p{
+  text-align: center;
+  color: white;
+}
