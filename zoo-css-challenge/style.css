@@ -149,6 +149,11 @@ footer {
   font-size: larger;
 }
 
+.news{
+  text-align: center;
+}
+
+
 .card {
   display: inline-block;
   background-color: white;
