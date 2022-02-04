@@ -224,7 +224,7 @@ footer {
 }
 .membership p{
   width: 700px;
-  padding-left: 215px;
+  padding-left: 10px;
 }
 
 .membership h2 {
@@ -238,5 +238,8 @@ footer {
 /*Programs*/
 
 .programs .card {
-  display: block;
+  width: 305px;
+  display: flexbox;
+
+  
 }
