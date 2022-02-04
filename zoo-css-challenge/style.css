@@ -1,5 +1,8 @@
 * {
   font-family: sans-serif;
+  /* In this line is added word-spacing to Increase the amount of space of the text so that 
+  there's more breathing space */
+  word-spacing: 5px;
 }
 
 header {
@@ -30,7 +33,13 @@ section {
 }
 
 img {
-  border: 5px solid #8075ff;
+  /* border: 5px solid #8075ff; 
+  this line is removed as they need the logo
+  without border*/
+}
+#logo{
+  /* this line is added  */
+  border: none;
 }
 
 h1,
@@ -76,6 +85,7 @@ footer {
 }
 
 .introduction {
+  background-color: white;
 }
 
 #badge {
